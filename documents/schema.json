@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "tripName": "",
+  "tripStartDate": "",
+  "tripEndDate": "",
+  "places": [
+    {
+      "id": 0,
+      "placeName": "",
+      "attractions": [],
+      "stayFrom": "",
+      "stayTill": ""
+    }
+  ]
+}

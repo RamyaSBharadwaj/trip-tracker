@@ -1,0 +1,6 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "database": "TravelDB",
+  "url": "mongodb+srv://ramyaBharadwaj:ramyasb30@cluster0-nmkbb.azure.mongodb.net/TravelDB?retryWrites=true"
+}
