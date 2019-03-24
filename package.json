@@ -29,7 +29,7 @@
     "docker:build": "docker build -t wanderlust-travel .",
     "docker:run": "docker run -p 3000:3000 -d wanderlust-travel",
     "migrate": "node ./dist/migrate",
-    "prestart": "npm run build",
+    "develop": "npm run build && npm start",
     "start": "node .",
     "prepublishOnly": "npm run test"
   },
